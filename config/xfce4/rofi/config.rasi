@@ -1,0 +1,5 @@
+@theme "rounded-orange-dark"
+
+listview {
+    lines: 10;
+}

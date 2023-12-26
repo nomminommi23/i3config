@@ -1,0 +1,6 @@
+2023/12/25-19:41:43.697 971 Reusing MANIFEST /home/nico/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/25-19:41:43.697 971 Recovering log #18
+2023/12/25-19:41:43.706 971 Reusing old log /home/nico/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000018.log 
+2023/12/25-19:47:24.001 96e Level-0 table #23: started
+2023/12/25-19:47:24.012 96e Level-0 table #23: 1194249 bytes OK
+2023/12/25-19:47:24.019 96e Delete type=0 #18

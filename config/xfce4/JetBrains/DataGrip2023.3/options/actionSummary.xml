@@ -1,0 +1,46 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="17" l="1702813065288" />
+    </e>
+    <e n="Console.Jdbc.ChooseSchema">
+      <i c="1" l="1702812730059" />
+    </e>
+    <e n="Console.Jdbc.ChooseSession">
+      <i c="1" l="1702812730921" />
+    </e>
+    <e n="DatabaseView.AddActionGroupPopup">
+      <i c="1" l="1702812692989" />
+    </e>
+    <e n="DatabaseView.Ddl.AlterObject">
+      <i c="1" l="1702812839742" />
+    </e>
+    <e n="DatabaseView.Diagnostics.PrepareIntrospectionDiagnostic">
+      <i c="1" l="1702812853698" />
+    </e>
+    <e n="Graph.ApplyCurrentLayout">
+      <i c="1" l="1702812772437" />
+    </e>
+    <e n="Jdbc.OpenEditor.Data">
+      <i c="1" l="1702812833419" />
+    </e>
+    <e n="ShowUmlDiagram">
+      <i c="2" l="1702812887234" />
+    </e>
+    <e n="WelcomeScreen.CreateDirectoryProject">
+      <i c="1" l="1702812672822" />
+    </e>
+    <e n="com.intellij.database.dataSource.LocalDataSourceManager$3">
+      <i c="1" l="1702812697682" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="4" l="1702813069586" />
+    </e>
+    <e n="com.intellij.toolWindow.StripeActionGroup$MyButtonAction">
+      <i c="2" l="1702812816866" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="2" l="1702812827441" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,280 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="7" l="1703285715226" />
+    </e>
+    <e n="$Redo">
+      <i c="11" l="1703290424679" />
+    </e>
+    <e n="$SelectAll">
+      <i c="10" l="1703291623573" />
+    </e>
+    <e n="$Undo">
+      <i c="550" l="1703291434674" />
+    </e>
+    <e n="AcceptTabnineInlineCompletionAction">
+      <i c="7" l="1703260612725" />
+    </e>
+    <e n="ActivateFindToolWindow">
+      <i c="1" l="1703272217965" />
+    </e>
+    <e n="ActivateHierarchyToolWindow">
+      <i c="1" l="1703271760183" />
+    </e>
+    <e n="AtomFileIcons.OldToolbar">
+      <i c="7" l="1703285706102" />
+    </e>
+    <e n="Build">
+      <i c="7" l="1703285706894" />
+    </e>
+    <e n="CPP.CreateCMakeProject">
+      <i c="1" l="1703260559214" />
+    </e>
+    <e n="ClearAllNotifications">
+      <i c="1" l="1703269563828" />
+    </e>
+    <e n="CreateDesktopEntry">
+      <i c="2" l="1703270194443" />
+    </e>
+    <e n="Debug">
+      <i c="22" l="1703289517247" />
+    </e>
+    <e n="Debugger.AddToWatch">
+      <i c="1" l="1703283210130" />
+    </e>
+    <e n="EditCustomVmOptions">
+      <i c="1" l="1703269366458" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="1356" l="1703292495347" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="92" l="1703291511220" />
+    </e>
+    <e n="EditorCopy">
+      <i c="105" l="1703291624125" />
+    </e>
+    <e n="EditorCut">
+      <i c="30" l="1703291367266" />
+    </e>
+    <e n="EditorDelete">
+      <i c="1" l="1703274845251" />
+    </e>
+    <e n="EditorDeleteLine">
+      <i c="1" l="1703282734766" />
+    </e>
+    <e n="EditorDown">
+      <i c="96" l="1703290755649" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="3" l="1703284119509" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="5" l="1703284125298" />
+    </e>
+    <e n="EditorEnter">
+      <i c="240" l="1703291510155" />
+    </e>
+    <e n="EditorLeft">
+      <i c="101" l="1703291456238" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="1" l="1703277789336" />
+    </e>
+    <e n="EditorLineStartWithSelection">
+      <i c="1" l="1703276893116" />
+    </e>
+    <e n="EditorPaste">
+      <i c="149" l="1703291440387" />
+    </e>
+    <e n="EditorPasteFromX11">
+      <i c="3" l="1702814722651" />
+    </e>
+    <e n="EditorRight">
+      <i c="105" l="1703291453911" />
+    </e>
+    <e n="EditorTab">
+      <i c="52" l="1703290523654" />
+    </e>
+    <e n="EditorToggleInsertState">
+      <i c="6" l="1703289480219" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="1" l="1703290816418" />
+    </e>
+    <e n="EditorUp">
+      <i c="73" l="1703291369857" />
+    </e>
+    <e n="ExternalSystem.ProjectRefreshAction">
+      <i c="6" l="1703286352356" />
+    </e>
+    <e n="FindUsages">
+      <i c="1" l="1703272226404" />
+    </e>
+    <e n="MethodDown">
+      <i c="3" l="1703284121807" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="9" l="1703285674293" />
+    </e>
+    <e n="MoveLineDown">
+      <i c="2" l="1703284115123" />
+    </e>
+    <e n="NewDir">
+      <i c="1" l="1702813469205" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="3" l="1703285364047" />
+    </e>
+    <e n="RenameElement">
+      <i c="1" l="1702813477912" />
+    </e>
+    <e n="Resume">
+      <i c="11" l="1703289381940" />
+    </e>
+    <e n="Run">
+      <i c="91" l="1703292497713" />
+    </e>
+    <e n="Rust.NewRustFile">
+      <i c="3" l="1702813537996" />
+    </e>
+    <e n="SaveAll">
+      <i c="351" l="1703291519042" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1702813693559" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="43" l="1703271499517" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="1" l="1703284779442" />
+    </e>
+    <e n="ShowSettings">
+      <i c="6" l="1703269936683" />
+    </e>
+    <e n="ShowUmlDiagram">
+      <i c="1" l="1703271472037" />
+    </e>
+    <e n="StepInto">
+      <i c="4" l="1703289352715" />
+    </e>
+    <e n="StepOver">
+      <i c="275" l="1703289360457" />
+    </e>
+    <e n="Stop">
+      <i c="36" l="1703290572318" />
+    </e>
+    <e n="ToggleBookmark">
+      <i c="4" l="1703289161792" />
+    </e>
+    <e n="ToggleDistractionFreeMode">
+      <i c="2" l="1703269551205" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="13" l="1703289379430" />
+    </e>
+    <e n="Vcs.Log.GoToChild">
+      <i c="1" l="1703285961559" />
+    </e>
+    <e n="Vcs.Log.GoToParent">
+      <i c="1" l="1703288560189" />
+    </e>
+    <e n="XDebugger.RemoveWatch">
+      <i c="1" l="1703283218052" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemeActions$ResetAction">
+      <i c="1" l="1703269856513" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction">
+      <i c="1" l="1703269854860" />
+    </e>
+    <e n="com.intellij.ide.actions.QuickChangeLookAndFeel$1">
+      <i c="4" l="1703270219358" />
+    </e>
+    <e n="com.intellij.ide.actions.QuickChangeLookAndFeel$LafChangeAction">
+      <i c="11" l="1703270264233" />
+    </e>
+    <e n="com.intellij.ide.actions.SettingsEntryPointAction$1">
+      <i c="19" l="1703271500202" />
+    </e>
+    <e n="com.intellij.ide.actions.SettingsEntryPointAction$2">
+      <i c="2" l="1702813380490" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerConfigurable$MarketplaceSortByAction">
+      <i c="1" l="1703269324507" />
+    </e>
+    <e n="com.intellij.ide.structureView.newStructureView.TreeActionWrapper">
+      <i c="4" l="1703271592239" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
+      <i c="1" l="1703271588196" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+      <i c="1" l="1703285425322" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.impl.MoreActionGroup">
+      <i c="1" l="1703260659366" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="8" l="1703291392662" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="6" l="1703291497907" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="2" l="1702814532191" />
+    </e>
+    <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$3">
+      <i c="1" l="1702813213491" />
+    </e>
+    <e n="com.intellij.openapi.updateSettings.impl.pluginsAdvertisement.PluginsAdvertiserStartupActivityKt$notifyUnbundledPlugins$2">
+      <i c="1" l="1703269201163" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.HideAction">
+      <i c="3" l="1703271764352" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="38" l="1703286466367" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="7" l="1703285185298" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="2" l="1702813130865" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="3" l="1703270191529" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="3" l="1703272212257" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="14" l="1703289476631" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="2" l="1703271593170" />
+    </e>
+    <e n="com.intellij.ui.components.BasicOptionButtonUI$ActionDelegate">
+      <i c="1" l="1703270171120" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="10" l="1703289896473" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.evaluate.quick.common.XDebuggerTooltipPopup$ShowErrorsAction">
+      <i c="1" l="1703284315975" />
+    </e>
+    <e n="com.jetbrains.rdclient.actions.base.BackendAction">
+      <i c="8" l="1703285624303" />
+    </e>
+    <e n="com.jetbrains.thinclient.actions.ThinClientDelegatingActionPromoter$FallbackAction">
+      <i c="29" l="1703285661827" />
+    </e>
+    <e n="com.jetbrains.thinclient.services.ThinClientPermissionHost$notifyNotPermitted$2">
+      <i c="1" l="1703274601798" />
+    </e>
+    <e n="com.jetbrains.thinclient.welcomeScreen.ThinClientWelcomeConfigCustomization$createQuickAccessActions$result$1">
+      <i c="1" l="1703269361711" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,13 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="accentMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="accentColor" value="7e57c2" />
+    <option name="selectedTheme" value="PALENIGHT" />
+    <option name="userId" value="65b409fd:18c92c39259:-8000" />
+    <option name="version" value="8.12.6" />
+  </component>
+</application>

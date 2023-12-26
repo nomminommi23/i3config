@@ -1,0 +1,322 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="3" l="1703340855029" />
+    </e>
+    <e n="$Delete">
+      <i c="9" l="1703358717923" />
+    </e>
+    <e n="$SelectAll">
+      <i c="12" l="1703354249173" />
+    </e>
+    <e n="$Undo">
+      <i c="357" l="1703358991322" />
+    </e>
+    <e n="AcceptTabnineInlineCompletionAction">
+      <i c="32" l="1703329043191" />
+    </e>
+    <e n="ActivateCommitToolWindow">
+      <i c="1" l="1703354833034" />
+    </e>
+    <e n="AddConditionalBreakpoint">
+      <i c="1" l="1703334602630" />
+    </e>
+    <e n="CIDR.Lang.Cpp.NewClass">
+      <i c="2" l="1703349610027" />
+    </e>
+    <e n="CMake.OpenSettings">
+      <i c="7" l="1703356112935" />
+    </e>
+    <e n="CPP.CreateCMakeProject">
+      <i c="5" l="1703354756819" />
+    </e>
+    <e n="CPP.NewCppFile">
+      <i c="3" l="1703349641017" />
+    </e>
+    <e n="CPP.NewHeaderFile">
+      <i c="1" l="1703358594703" />
+    </e>
+    <e n="CWMHostShowPopupAction">
+      <i c="10" l="1703335966583" />
+    </e>
+    <e n="ChangesView.ShowCommitOptions">
+      <i c="1" l="1703354860987" />
+    </e>
+    <e n="ConfigurationXDebuggerResumeAction">
+      <i c="1" l="1703334660957" />
+    </e>
+    <e n="ConnectToRemoteFromHost">
+      <i c="8" l="1703335954377" />
+    </e>
+    <e n="Debug">
+      <i c="15" l="1703335037148" />
+    </e>
+    <e n="Debugger.AddToWatch">
+      <i c="1" l="1703332063197" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="1460" l="1703359197078" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="1" l="1703355207662" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="74" l="1703358665875" />
+    </e>
+    <e n="EditorCopy">
+      <i c="112" l="1703358876381" />
+    </e>
+    <e n="EditorCut">
+      <i c="14" l="1703358712534" />
+    </e>
+    <e n="EditorDown">
+      <i c="83" l="1703359187141" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="1" l="1703336437506" />
+    </e>
+    <e n="EditorEnter">
+      <i c="338" l="1703359187872" />
+    </e>
+    <e n="EditorEscape">
+      <i c="3" l="1703349984888" />
+    </e>
+    <e n="EditorIndentSelection">
+      <i c="1" l="1703358959860" />
+    </e>
+    <e n="EditorLeft">
+      <i c="169" l="1703358775933" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="1" l="1703336545525" />
+    </e>
+    <e n="EditorPaste">
+      <i c="177" l="1703358877311" />
+    </e>
+    <e n="EditorPasteFromX11">
+      <i c="3" l="1702814722651" />
+    </e>
+    <e n="EditorRight">
+      <i c="205" l="1703358947810" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="16" l="1703337049118" />
+    </e>
+    <e n="EditorTab">
+      <i c="46" l="1703359173207" />
+    </e>
+    <e n="EditorUp">
+      <i c="87" l="1703359184063" />
+    </e>
+    <e n="ExternalSystem.ProjectRefreshAction">
+      <i c="6" l="1703358500757" />
+    </e>
+    <e n="Find">
+      <i c="2" l="1703351217224" />
+    </e>
+    <e n="GetJoinLinkAction">
+      <i c="1" l="1703335958803" />
+    </e>
+    <e n="Git.Commit.And.Push.Executor">
+      <i c="1" l="1703354858217" />
+    </e>
+    <e n="Git.Init">
+      <i c="1" l="1703354834957" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="9" l="1703351452428" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="35" l="1703356125970" />
+    </e>
+    <e n="NewDir">
+      <i c="1" l="1702813469205" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1703354582436" />
+    </e>
+    <e n="ProblemsView.CopyProblemDescription">
+      <i c="1" l="1703333892537" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="2" l="1703355814472" />
+    </e>
+    <e n="RenameElement">
+      <i c="8" l="1703341990813" />
+    </e>
+    <e n="Rerun">
+      <i c="1" l="1703355557428" />
+    </e>
+    <e n="Resume">
+      <i c="2" l="1703332055531" />
+    </e>
+    <e n="Run">
+      <i c="114" l="1703358500142" />
+    </e>
+    <e n="Rust.NewRustFile">
+      <i c="3" l="1702813537996" />
+    </e>
+    <e n="SaveAll">
+      <i c="366" l="1703359198137" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1702813693559" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="25" l="1703354584924" />
+    </e>
+    <e n="ShowSettings">
+      <i c="11" l="1703328810389" />
+    </e>
+    <e n="StepOver">
+      <i c="40" l="1703334788465" />
+    </e>
+    <e n="Stop">
+      <i c="24" l="1703352533850" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="15" l="1703355544838" />
+    </e>
+    <e n="Vcs.Push">
+      <i c="1" l="1703354874119" />
+    </e>
+    <e n="cody.acceptAutocompleteAction">
+      <i c="69" l="1703359189138" />
+    </e>
+    <e n="com.intellij.codeInsight.actions.ReaderModeActionProvider$ReaderModeAction">
+      <i c="2" l="1703351591192" />
+    </e>
+    <e n="com.intellij.execution.ExecutorRegistryImpl$RunSpecifiedConfigExecutorAction">
+      <i c="21" l="1703356126633" />
+    </e>
+    <e n="com.intellij.execution.actions.ExecutionTargetComboBoxAction$SelectTargetAction">
+      <i c="17" l="1703358499119" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="2" l="1703351292752" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.SwitchToFind">
+      <i c="1" l="1703338300071" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="2" l="1703355641101" />
+    </e>
+    <e n="com.intellij.ide.actions.CopyAction">
+      <i c="1" l="1703355623706" />
+    </e>
+    <e n="com.intellij.ide.actions.QuickChangeLookAndFeel$1">
+      <i c="2" l="1703270010323" />
+    </e>
+    <e n="com.intellij.ide.actions.QuickChangeLookAndFeel$LafChangeAction">
+      <i c="1" l="1703270041932" />
+    </e>
+    <e n="com.intellij.ide.actions.SettingsEntryPointAction$2">
+      <i c="7" l="1703354267038" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerConfigurable$MarketplaceSortByAction">
+      <i c="1" l="1703270014256" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.impl.MoreActionGroup">
+      <i c="1" l="1703260659366" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="11" l="1703334527227" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="9" l="1703358706292" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="2" l="1702814532191" />
+    </e>
+    <e n="com.intellij.openapi.ui.MasterDetailsComponent$MyDeleteAction">
+      <i c="4" l="1703356035227" />
+    </e>
+    <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$3">
+      <i c="1" l="1702813213491" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.HideAction">
+      <i c="3" l="1703356121736" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="47" l="1703358919943" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="2" l="1703354871950" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.status.widget.StatusBarWidgetsActionGroup$ToggleWidgetAction">
+      <i c="2" l="1703266798376" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="2" l="1702813130865" />
+    </e>
+    <e n="com.intellij.profiler.ProfilerToolWindowManager$showOpenProfilerTabBalloon$openAction$1">
+      <i c="2" l="1703355686396" />
+    </e>
+    <e n="com.intellij.profiler.actions.DefaultNavigateToSourceAction">
+      <i c="4" l="1703355752575" />
+    </e>
+    <e n="com.intellij.profiler.statistics.FusAwareActionGroup">
+      <i c="2" l="1703355772420" />
+    </e>
+    <e n="com.intellij.profiler.ui.callusage.ActionsKt$createActionToolbar$1$1$1">
+      <i c="6" l="1703355799716" />
+    </e>
+    <e n="com.intellij.profiler.ui.callusage.ActionsKt$createActionToolbar$1$1$2">
+      <i c="4" l="1703355792222" />
+    </e>
+    <e n="com.intellij.profiler.ui.callusage.ActionsKt$createActionToolbar$1$1$3">
+      <i c="6" l="1703355781569" />
+    </e>
+    <e n="com.intellij.profiler.ui.flamegraph.CaptureImageActionGroup">
+      <i c="1" l="1703355801782" />
+    </e>
+    <e n="com.intellij.profiler.ui.flamegraph.ShowSearchToolbar">
+      <i c="2" l="1703355803906" />
+    </e>
+    <e n="com.intellij.profiler.ui.flamegraph.ZoomInAction">
+      <i c="1" l="1703355769834" />
+    </e>
+    <e n="com.intellij.profiler.ui.flamegraph.ZoomOutAction">
+      <i c="1" l="1703355770377" />
+    </e>
+    <e n="com.intellij.profiler.ui.flamegraph.internal.ToggleFlameGraphViewAction">
+      <i c="4" l="1703355791465" />
+    </e>
+    <e n="com.intellij.profiler.ui.flamegraph.internal.ToggleNavigateSingleClickAction">
+      <i c="2" l="1703355788144" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="3" l="1703355628450" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="18" l="1703358918659" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="2" l="1703356137926" />
+    </e>
+    <e n="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
+      <i c="9" l="1703356114390" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.actions.EditBreakpointAction$ContextAction">
+      <i c="2" l="1703334656018" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="10" l="1703355549921" />
+    </e>
+    <e n="com.jetbrains.rdserver.followMe.BackendUserActionsKt$createKickAction$1">
+      <i c="1" l="1703341594199" />
+    </e>
+    <e n="com.mallowigi.idea.notifications.MTAutoResetNotification$2">
+      <i c="1" l="1703334185669" />
+    </e>
+    <e n="com.mallowigi.idea.notifications.MTStatisticsNotification$2">
+      <i c="1" l="1703334186233" />
+    </e>
+    <e n="com.sourcegraph.cody.config.LogInToSourcegraphAction">
+      <i c="1" l="1703354320925" />
+    </e>
+    <e n="com.sourcegraph.cody.statusbar.CodyOpenSettingsAction">
+      <i c="2" l="1703354807428" />
+    </e>
+  </component>
+</application>

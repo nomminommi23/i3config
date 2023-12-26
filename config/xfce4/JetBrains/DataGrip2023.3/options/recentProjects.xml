@@ -1,0 +1,25 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/DataGripProjects/XMPP">
+          <value>
+            <RecentProjectMetaInfo frameTitle="XMPP – console" opened="true" projectWorkspaceId="2ZfUYoOunhZySvjwHCb1ersGQHz">
+              <option name="activationTimestamp" value="1702813087034" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="DB-233.13135.68" />
+              <option name="buildTimestamp" value="1702588620000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="11" y="18" width="944" height="1051" />
+              <option name="productionCode" value="DB" />
+              <option name="projectOpenTimestamp" value="1702812678537" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/DataGripProjects/XMPP" />
+  </component>
+</application>

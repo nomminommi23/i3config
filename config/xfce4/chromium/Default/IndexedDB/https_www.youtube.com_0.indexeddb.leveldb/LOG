@@ -1,0 +1,9 @@
+2023/12/25-23:01:04.107 35f8 Reusing MANIFEST /home/nico/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/25-23:01:04.107 35f8 Recovering log #22
+2023/12/25-23:01:04.112 35f8 Reusing old log /home/nico/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000022.log 
+2023/12/25-23:01:04.573 35ea Compacting 1@1 + 1@2 files
+2023/12/25-23:01:04.580 35ea Generated table #25@1: 415 keys, 41202 bytes
+2023/12/25-23:01:04.580 35ea Compacted 1@1 + 1@2 files => 41202 bytes
+2023/12/25-23:01:04.585 35ea compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/25-23:01:04.586 35ea Delete type=2 #20
+2023/12/25-23:01:04.586 35ea Delete type=2 #23

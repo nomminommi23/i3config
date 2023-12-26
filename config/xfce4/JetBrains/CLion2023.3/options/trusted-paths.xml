@@ -1,0 +1,11 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/CLionProjects/asm-test" value="true" />
+        <entry key="$USER_HOME$/CLionProjects/stack" value="true" />
+        <entry key="$USER_HOME$/CLionProjects/xms" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

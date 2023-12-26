@@ -1,0 +1,255 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="asm-test" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="showOnlyModified" value="false" />
+    <option name="myColumnSize">
+      <list>
+        <option value="134" />
+        <option value="255" />
+        <option value="245" />
+      </list>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3485">
+              <caret line="240" column="22" selection-start-line="240" selection-start-column="22" selection-end-line="240" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CMakeLists.txt">
+      <summary usageCount="8" lastUsed="1703328642471" />
+    </fileType>
+    <fileType name="ObjectiveC">
+      <summary usageCount="10" lastUsed="1703355644254" />
+    </fileType>
+    <fileType name="WebPreview">
+      <summary usageCount="1" lastUsed="1703270031203" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      <option value="$PROJECT_DIR$/main.cpp" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CMake">
+      <summary usageCount="8" lastUsage="1703328642473" />
+    </language>
+    <language id="ObjectiveC">
+      <summary usageCount="10" lastUsage="1703355644254" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="asm_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/sean/CLionProjects/asm-test}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="asm_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/sean/CLionProjects/asm-test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/sean/CLionProjects/asm-test/cmake-build-debug}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="CMake Application.asm_test" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13907000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.05703125" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3367347" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.20306692" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.33657408" />
+      <window_info anchor="bottom" id="CMake" order="6" weight="0.1" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.33657408" />
+      <window_info anchor="bottom" id="Profiler" order="8" weight="0.33657408" />
+      <window_info anchor="bottom" id="Debug" order="8" show_stripe_button="false" weight="0.3367347" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.3307814" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" visible="true" weight="0.3309896" />
+      <window_info anchor="right" id="Cody" order="6" />
+      <window_info anchor="right" id="Tabnine Chat" order="6" show_stripe_button="false" />
+      <unified_weights bottom="0.33657408" left="0.05703125" right="0.3309896" />
+    </layoutV2>
+    <recentWindows>
+      <value>Coverage</value>
+      <value>Run</value>
+      <value>Messages</value>
+      <value>Profiler</value>
+      <value>Debug</value>
+      <value>Problems View</value>
+      <value>Project</value>
+      <value>Notifications</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="361" height="447" key="DebuggerActiveHint" timestamp="1703335068619">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="361" height="447" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1703335068619" />
+    <state width="1838" height="315" key="GridCell.Tab.0.bottom" timestamp="1703356088146">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="315" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1703356088146" />
+    <state width="1838" height="315" key="GridCell.Tab.0.center" timestamp="1703356088145">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="315" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1703356088145" />
+    <state width="1838" height="315" key="GridCell.Tab.0.left" timestamp="1703356088145">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="315" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1703356088145" />
+    <state width="1838" height="315" key="GridCell.Tab.0.right" timestamp="1703356088146">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="315" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1703356088146" />
+    <state width="1812" height="298" key="GridCell.Tab.1.bottom" timestamp="1703335099236">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1812" height="298" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1703335099236" />
+    <state width="1812" height="298" key="GridCell.Tab.1.center" timestamp="1703335099236">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1812" height="298" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1703335099236" />
+    <state width="1812" height="298" key="GridCell.Tab.1.left" timestamp="1703335099236">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1812" height="298" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1703335099236" />
+    <state width="1812" height="298" key="GridCell.Tab.1.right" timestamp="1703335099236">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1812" height="298" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1703335099236" />
+    <state width="1812" height="298" key="GridCell.Tab.2.bottom" timestamp="1703335099237">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1812" height="298" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1703335099237" />
+    <state width="1812" height="298" key="GridCell.Tab.2.center" timestamp="1703335099237">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1812" height="298" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1703335099237" />
+    <state width="1812" height="298" key="GridCell.Tab.2.left" timestamp="1703335099237">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1812" height="298" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1703335099237" />
+    <state width="1812" height="298" key="GridCell.Tab.2.right" timestamp="1703335099237">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1812" height="298" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1703335099237" />
+    <state width="1812" height="298" key="GridCell.Tab.3.bottom" timestamp="1703335099237">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1812" height="298" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1703335099237" />
+    <state width="1812" height="298" key="GridCell.Tab.3.center" timestamp="1703335099237">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1812" height="298" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1703335099237" />
+    <state width="1812" height="298" key="GridCell.Tab.3.left" timestamp="1703335099237">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1812" height="298" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1703335099237" />
+    <state width="1812" height="298" key="GridCell.Tab.3.right" timestamp="1703335099237">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1812" height="298" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1703335099237" />
+    <state x="464" y="178" key="SettingsEditor" timestamp="1703356037702">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="464" y="178" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1703356037702" />
+    <state x="500" y="201" width="913" height="676" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1703334630929">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="500" y="201" width="913" height="676" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1080@0.0.1920.1080" timestamp="1703334630929" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3485">
+          <caret line="240" column="22" selection-start-line="240" selection-start-column="22" selection-end-line="240" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

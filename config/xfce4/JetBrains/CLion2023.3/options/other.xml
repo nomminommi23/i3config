@@ -1,0 +1,86 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Noto Sans" />
+    <option name="fontSize" value="12.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CRATES_IO_INDEX_LAST_UPDATE": "1702813427601",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "7",
+    "MarketplacePluginsSearchHistory": "cody\nco\nc\ntabnine\nta",
+    "RunOnceActivity.CodyApplicationSettingsMigration": "true",
+    "RunOnceActivity.ToggleCodyToolWindowAfterMigration": "true",
+    "RunOnceActivity.cidr.test.framework.showIndexingAsTask": "true",
+    "RunOnceActivity.cidr.test.roots.only": "true",
+    "RunOnceActivity.rust.first.ide.run": "true",
+    "SettingsSearchHistory": "font",
+    "XDebuggerExpressionEditor_Use_Soft_Wraps": "true",
+    "ai.assistant.toolwindow.shown.at.start": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "CL-233.13135.93",
+    "clion.initialConfigPerformed": "true",
+    "com.jetbrains.rust.LAST_UPDATE": "1703260557624",
+    "com.jetbrains.rust.LAST_VERSION": "233.21799.284",
+    "com.tabnine.chat.conversations.v2": "{\"conversations\":{\"1a9c4b71-e542-4986-ae27-51e84d9e29dd\":{\"id\":\"1a9c4b71-e542-4986-ae27-51e84d9e29dd\",\"messages\":[{\"id\":\"9090c665-e125-43ef-8ca1-2582b0636520\",\"text\":\"\",\"isBot\":false,\"timestamp\":\"1702813324638\",\"intent\":\"document-code\"},{\"id\":\"4ee9f341-141e-4844-8535-4c87ba4d203f\",\"text\":[\"\\n```rust\\n/// Prints the string \\\"Hello, world!\\\" to the console.\\nfn main() {\\n    println!(\\\"Hello, world!\\\");\\n}\\n```\",\"\\n```rust\\n/// This function prints \\\"Hello, world!\\\" to the console.\\nfn main() {\\n    println!(\\\"Hello, world!\\\");\\n}\\n```\"],\"isBot\":true,\"timestamp\":\"1702813324646\",\"selected\":0},{\"id\":\"c2437415-e805-49d3-acad-7df00ffb905b\",\"text\":\"\",\"isBot\":false,\"timestamp\":\"1702813331942\",\"intent\":\"explain-code\"},{\"id\":\"2b38c1ff-99f0-4c41-aa1c-1447599b351a\",\"text\":[\"The code you have selected is the entire function main() in the Rust program. The function is defined using the keyword fn, followed by the function name main and a pair of parentheses. The function body is enclosed in curly braces { }, and contains a single statement: the call to the println! macro, which prints a string to the console. The macro is called with a string literal as an argument, which is enclosed in double quotes.\",\"The code you have selected is the entire contents of the `main` function in the `main.rs` file. This function is where the program starts executing when it is run, and it prints the message \\\"Hello, world!\\\" to the console. The `fn` keyword indicates that this is a function, and the `main` keyword indicates that this is the entry point of the program. The curly braces (`{}`) indicate the beginning and end of the function\\u0027s body, which in this case is just a single statement: the `println!` macro call. The macro `println!` is a built-in function in Rust that prints text to the console. The string \\\"Hello, world!\\\" is passed to the `println!` macro as an argument, and the macro will print it to the console using the default formatting rules.\"],\"isBot\":true,\"timestamp\":\"1702813331948\",\"selected\":0},{\"id\":\"c36b8eb3-fb03-4568-82dd-7bc73abbc06e\",\"text\":\"\",\"isBot\":false,\"timestamp\":\"1702813336347\",\"intent\":\"generate-test-for-code\"},{\"id\":\"390a0fe2-2ba8-4696-8d53-28aaa824a58f\",\"text\":[\"\\n```rust\\n#[test]\\nfn test_selected_code() {\\n    let input \\u003d \\\"Hello, world!\\\";\\n    let expected_output \\u003d \\\"Hello, world!\\\";\\n\\n    assert_eq!(expected_output, input);\\n}\\n```\",\"\\n```rust\\n#[test]\\nfn test_selected_code() {\\n    // Test edge cases\\n    assert_eq!(add(1, 1), 2);\\n    assert_eq!(add(5, 5), 10);\\n    assert_eq!(add(0, 10), 10);\\n    assert_eq!(add(-10, -10), -20);\\n\\n    // Test error handling\\n    assert_eq!(add(1, \\\"a\\\"), 1);\\n    assert_eq!(add(\\\"a\\\", 1), 1);\\n    assert_eq!(add(true, false), true);\\n    assert_eq!(add(false, true), true);\\n}\\n```\"],\"isBot\":true,\"timestamp\":\"1702813336353\",\"selected\":0},{\"id\":\"f4832284-cc7c-4e98-a76d-3e3dd96c78ea\",\"text\":\"best clion theme for rust?\",\"isBot\":false,\"timestamp\":\"1702813370050\"},{\"id\":\"68e65efe-c8e1-4c77-a2ab-72971022d1e9\",\"text\":[\"Here are some of the best CLion themes for Rust:\\n\\n1. Solarized Dark\\n2. Monokai\\n3. Tomorrow Night Blue\\n4. Dracula\\n5. One Dark Pro\\n6. Base16 Tomorrow\\n7. Material Theme\\n8. Darcula\\n9. VSCode Dark+\\n10. High Contrast Black\\n\\nThese themes can be installed from the JetBrains Marketplace or manually by downloading the theme file and importing it into CLion.\",\"Here are some of the best CLion themes for Rust:\\n\\n1. Solarized Dark\\n2. Monokai Pro\\n3. Tomorrow Night Blue\\n4. Dracula\\n5. Darcula\\n6. Twilight\\n7. One Dark Pro\\n8. Base16 Tomorrow\\n9. Material Theme\\n10. VSCode Dark+\\n\\nThese themes can be installed from the JetBrains Marketplace or manually by downloading the theme file and importing it into CLion.\"],\"isBot\":true,\"timestamp\":\"1702813370051\",\"selected\":0}]},\"06b2067e-36ec-4a39-9529-e5545bae3a5a\":{\"id\":\"06b2067e-36ec-4a39-9529-e5545bae3a5a\",\"messages\":[{\"id\":\"4f7b8772-c87b-46fa-ba1a-20658ad34a91\",\"text\":\"encrypt(data, key) and decrypt(data, key) function using the aes crate and pkcs7\",\"isBot\":false,\"timestamp\":\"1702814976731\"},{\"id\":\"e79b7de9-bbda-4298-ae80-db1e7a4d6211\",\"text\":[\"Here is an example implementation of the `encrypt` and `decrypt` functions in Rust using the `aes` crate and PKCS7 padding:\\n\\n```rust\\nextern crate aes;\\nextern crate base64;\\n\\nuse aes::cipher::{BlockDecryptor, BlockEncryptor};\\nuse aes::Aes128;\\nuse base64::{decode, encode};\\nuse std::error::Error;\\n\\nfn encrypt(data: \\u0026[u8], key: \\u0026[u8]) -\\u003e Result\\u003cString, Box\\u003cError\\u003e\\u003e {\\n    let cipher \\u003d Aes128::new_from_slice(key).unwrap();\\n    let mut encryptor \\u003d cipher.encryptor();\\n    let mut data \\u003d data.to_vec();\\n    encryptor.apply_keystream(\\u0026mut data);\\n    let encoded \\u003d encode(data);\\n    Ok(encoded)\\n}\\n\\nfn decrypt(encrypted_data: \\u0026str, key: \\u0026[u8]) -\\u003e Result\\u003cVec\\u003cu8\\u003e, Box\\u003cError\\u003e\\u003e {\\n    let cipher \\u003d Aes128::new_from_slice(key).unwrap();\\n    let encrypted_data \\u003d decode(encrypted_data)?;\\n    let mut decryptor \\u003d cipher.decryptor();\\n    let mut data \\u003d decryptor.update(\\u0026encrypted_data);\\n    data.extend(decryptor.finalize());\\n    Ok(data)\\n}\\n\\nfn main() {\\n    let key \\u003d b\\\"my_secret_key\\\";\\n    let data \\u003d b\\\"my_secret_data\\\";\\n    let encrypted_data \\u003d encrypt(data, key).unwrap();\\n    let decrypted_data \\u003d decrypt(\\u0026encrypted_data, key).unwrap();\\n    assert_eq!(data, decrypted_data.as_slice());\\n}\\n```\\n\\nThis code defines two functions, `encrypt` and `decrypt`, that implement the encryption and decryption operations using the AES-128 algorithm. The key is used to initialize an `Aes128` cipher instance, which is used to encrypt and decrypt the data.\\n\\nThe encryption process involves creating a new `Aes128` cipher instance from the key, creating a new encryptor from the cipher, applying the keystream to the data, and then encoding the resulting bytes using base64. The decryption process is similar, except that a decryptor is used instead of an encryptor, and the data is decoded from base64 before being decrypted.\",\"Here is an example implementation of the `encrypt` and `decrypt` functions in Rust using the `aes` crate and PKCS7 padding:\\n\\n```rust\\nextern crate aes;\\nextern crate base64;\\n\\nuse aes::cipher::generic_array::GenericArray;\\nuse aes::cipher::{Aes128, NewBlockCipher};\\nuse base64::encode;\\n\\n// Define the key size and block size\\nconst KEY_SIZE: usize \\u003d 16; // 128 bits\\nconst BLOCK_SIZE: usize \\u003d 16; // 128 bits\\n\\n// Define the encryption and decryption functions\\nfn encrypt(plain_text: \\u0026str, key: \\u0026[u8]) -\\u003e String {\\n    // Create a new AES-128 cipher with the given key\\n    let cipher \\u003d Aes128::new(GenericArray::from_slice(key));\\n\\n    // Pad the input text to be encrypted using PKCS7\\n    let padded_text \\u003d pkcs7_pad(plain_text, BLOCK_SIZE);\\n\\n    // Create a vector to hold the encrypted data\\n    let mut encrypted_data \\u003d vec![0u8; padded_text.len()];\\n\\n    // Encrypt the padded text\\n    cipher.encrypt(\\u0026mut encrypted_data, GenericArray::from_slice(padded_text.as_bytes()));\\n\\n    // Return the encrypted data as a base64-encoded string\\n    encode(\\u0026encrypted_data)\\n}\\n\\nfn decrypt(cipher_text: \\u0026str, key: \\u0026[u8]) -\\u003e String {\\n    // Create a new AES-128 cipher with the given key\\n    let cipher \\u003d Aes128::new(GenericArray::from_slice(key));\\n\\n    // Decode the cipher text from base64\\n    let cipher_text_bytes \\u003d decode(cipher_text).expect(\\\"Invalid base64 input\\\");\\n\\n    // Create a vector to hold the decrypted data\\n    let mut decrypted_data \\u003d vec![0u8; cipher_text_bytes.len()];\\n\\n    // Decrypt the cipher text\\n    cipher.decrypt(\\u0026mut decrypted_data, GenericArray::from_slice(cipher_text_bytes.as_slice()));\\n\\n    // Remove the PKCS7 padding\\n    let plain_text \\u003d pkcs7_unpad(\\u0026decrypted_data);\\n\\n    // Return the decrypted text\\n    String::from_utf8_lossy(plain_text.as_ref()).to_string()\\n}\\n\\n// Pad the input text using PKCS7\\nfn pkcs7_pad(input_text: \\u0026str, block_size: usize) -\\u003e Vec\\u003cu8\\u003e {\\n    let input_len \\u003d input_text.as_bytes().len();\\n    let pad_len \\u003d block_size - (input_len % block_size);\\n    let pad_bytes \\u003d vec![pad_len as u8; pad_len];\\n    input_text.as_bytes().to_vec() + \\u0026pad_bytes\\n}\\n\\n// Remove the PKCS7 padding from the input data\\nfn pkcs7_unpad(input_data: \\u0026[u8]) -\\u003e \\u0026[u8] {\\n    let pad_len \\u003d input_data[input_data.len() - 1] as usize;\\n    \\u0026input_data[..input_data.len() - pad_len]\\n}\\n\\n// Main function\\nfn main() {\\n    // Define the key\\n    let key \\u003d b\\\"my_secret_key\\\";\\n\\n    // Define the input text\\n    let input_text \\u003d \\\"This is some secret data that needs to be encrypted\\\";\\n\\n    // Encrypt the input text\\n    let encrypted_text \\u003d encrypt(input_text, key);\\n\\n    // Print the encrypted text\\n    println!(\\\"Encrypted text: {}\\\", encrypted_text);\\n\\n    // Decrypt the encrypted text\\n    let decrypted_text \\u003d decrypt(\\u0026encrypted_text, key);\\n\\n    // Print the decrypted text\\n    println!(\\\"Decrypted text: {}\\\", decrypted_text);\\n}\\n```\\n\\nThis code defines two functions, `encrypt` and `decrypt`, that implement the encryption and decryption process using the AES-128 algorithm in Rust. The input text is padded using PKCS7 before encryption, and the padding is removed after decryption.\\n\\nThe main function demonstrates how to use the encryption and decryption functions by defining the input text, the key, and calling the encryption and decryption functions.\"],\"isBot\":true,\"timestamp\":\"1702814976733\",\"selected\":0}]}}}",
+    "com.tabnine.chat.settings": "{\"isTelemetryEnabled\":true}",
+    "evlsprt3.233": "7",
+    "experimental.ui.used.version": "233.13135.93",
+    "file.gist.reindex.count": "106",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "12.0",
+    "fontSizeToResetEditor": "12.0",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "gotit.previous.run": "CL-233.13135.93",
+    "ide.memory.adjusted": "true",
+    "ide.updates.previous.build.number": "CL-233.13135.93",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/bin/valgrind",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "mt.autoReset": "true",
+    "mt.showStatisticsAgreement": "true",
+    "previousColorScheme": "_@user_Material Palenight",
+    "registry.to.advanced.settings.migration.build": "CL-233.13135.93",
+    "rs.new.file.attach.selected": "false",
+    "selected.color.option.type": "OC.TEMPLATE_TYPE",
+    "tab_selection_count": "5",
+    "tabnine-notifications-shown-\"preview-notification-1\"_1703328882782": "true",
+    "tabnine-notifications-shown-A-Pro-trial-announcement-46_1703260578491": "true",
+    "ts.lib.d.ts.version": "5.2.2"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/bin/valgrind",
+      "/bin/perf",
+      "/home/sean/CLionProjects/stack"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.jetbrains.cidr.lang.OCHeaderFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips">{
+  &quot;shownTips&quot;: {
+    &quot;FocusProjectToolWindow&quot;: 1703328648842,
+    &quot;CommentCode&quot;: 1702813453322,
+    &quot;FindInPath&quot;: 1703260571762
+  },
+  &quot;proposedTips&quot;: {
+    &quot;FocusProjectToolWindow&quot;: 1703328648738,
+    &quot;CommentCode&quot;: 1702813453217,
+    &quot;FindInPath&quot;: 1703260571551
+  },
+  &quot;tipsOrderSeed&quot;: 1702813453196
+}</component>
+  <component name="ValgrindSettings">
+    <option name="valgrindPath" value="/bin/valgrind" />
+  </component>
+</application>
